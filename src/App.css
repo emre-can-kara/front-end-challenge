@@ -4,6 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* Sayfanın tamamını kaplaması için */
+}
+
 
 .logo {
   height: 6em;
@@ -40,3 +46,5 @@
 .read-the-docs {
   color: #888;
 }
+
+
