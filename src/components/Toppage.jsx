@@ -13,7 +13,7 @@ function Toppage() {
             height: "658px", 
             backgroundColor: colors.morumsu, 
             position: "relative", // absolute yerine relative denedim
-            top: "0", 
+            top: "0", // top 
             left: "0",
             position:"absolute",
             display: "flex", 
